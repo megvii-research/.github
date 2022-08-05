@@ -1,6 +1,6 @@
 # Megvii Research
 > Continuous Innovation Expands Horizons and Broadens the Mind Leveraging Cutting-Edge Technologies to Create Tangible Value
-## [Homepage](https://en.megvii.com/megvii_research) | [bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)
+## [Homepage](https://en.megvii.com/megvii_research) | [bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0) | [zhihu](https://www.zhihu.com/org/kuang-shi-ke-ji-67/columns)
 
 | name | description | 
 | ---- | ----------- | 
