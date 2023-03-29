@@ -136,4 +136,4 @@ The following list also includes projects from some of Megvii Research's affilia
 | [video_analyst](https://github.com/megvii-research/video_analyst)   <a href="https://github.com/megvii-research/video_analyst"><img src="https://img.shields.io/github/stars/megvii-research/video_analyst?style=social" /></a> | A series of basic algorithms that are useful for video understanding, including Single Object Tracking (SOT), Video Object Segmentation (VOS) and so on. |
 | [zipfls](https://github.com/megvii-research/zipfls)   <a href="https://github.com/megvii-research/zipfls"><img src="https://img.shields.io/github/stars/megvii-research/zipfls?style=social" /></a> | the ECCV2022 paper: Efficient One Pass Self-distillation with Zipf's Label Smoothing. |
 
-If you have questions about this page, please contact zhanghuiying@megvii.com or huangzhewei@megvii.com.
+If you have questions about this page, please contact huangzhewei@megvii.com.
