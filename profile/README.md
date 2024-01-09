@@ -181,4 +181,3 @@ The following list also includes projects from some of Megvii Research's affilia
 | [xopr](https://github.com/MegEngine/xopr) <a href='https://github.com/MegEngine/xopr'><img src='https://img.shields.io/github/stars/MegEngine/xopr?style=social' /></a> | Experimental Operator Library for MegEngine |
 | [zipfls](https://github.com/megvii-research/zipfls) <a href='https://github.com/megvii-research/zipfls'><img src='https://img.shields.io/github/stars/megvii-research/zipfls?style=social' /></a> | This repo is the official megengine implementation of the ECCV2022 paper: Efficient One Pass Self-distillation with Zipf's Label Smoothing. |
 
-If you have questions about this page, please contact huangzhewei@megvii.com.
